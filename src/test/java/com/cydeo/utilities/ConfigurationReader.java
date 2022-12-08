@@ -34,5 +34,4 @@ public class ConfigurationReader {
         return properties.getProperty(keyword);
     }
 
-
 }
